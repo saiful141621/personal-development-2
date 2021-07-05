@@ -1,3 +1,42 @@
 .body{
     font-family: 'Domine', serif;
 }
+.flexible-container{
+    display: flex;
+}
+.half-width{
+    width:50%;
+    padding:5%;
+}
+.half-width img{
+    width:80%;
+    Padding:5%
+}
+h1{
+    font-size:50px;
+    
+
+}
+#my{
+background-image:linear-gradient(yellow, orange);
+width:10px 40px;
+text-decoration: none;
+}
+#tuna{
+    color:yellowgreen;
+}
+.top-banner{
+    background-image:url(images/top-banner.png);
+    background-repeat:no-repeat;
+    padding:0%;
+    
+}.middle{
+
+    background-image: url(images/dream-bg.png);
+    background-position:right;
+    background-repeat: no-repeat;
+}
+#big{
+
+}
+
